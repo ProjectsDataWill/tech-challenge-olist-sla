@@ -164,6 +164,12 @@ ou
 
 ---
 
+# 📽️ Apresentação Executiva
+
+A apresentação completa do projeto pode ser acessada no link abaixo:
+
+🔗 https://www.canva.com/design/DAHI2H0tTJ8/r-flm0ieLj_tNkDU2-dmgg/view?utm_content=DAHI2H0tTJ8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
 # 👨‍💻 Autor
 
 Projeto desenvolvido para o Tech Challenge — Pós-Tech FIAP.
