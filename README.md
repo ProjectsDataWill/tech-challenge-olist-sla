@@ -1,5 +1,12 @@
 # Tech Challenge — Eficiência Logística e SLA no E-commerce Brasileiro
 
+# 📽️ Apresentação Executiva
+
+A apresentação completa do projeto pode ser acessada no link abaixo:
+
+🔗 https://www.canva.com/design/DAHI2H0tTJ8/r-flm0ieLj_tNkDU2-dmgg/view?utm_content=DAHI2H0tTJ8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+
 ## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do **Tech Challenge da Pós-Tech FIAP** com foco em análise de dados aplicada ao setor de e-commerce.
@@ -164,11 +171,6 @@ ou
 
 ---
 
-# 📽️ Apresentação Executiva
-
-A apresentação completa do projeto pode ser acessada no link abaixo:
-
-🔗 https://www.canva.com/design/DAHI2H0tTJ8/r-flm0ieLj_tNkDU2-dmgg/view?utm_content=DAHI2H0tTJ8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 # 👨‍💻 Autor
 
